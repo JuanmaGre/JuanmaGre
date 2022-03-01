@@ -44,7 +44,7 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/office/16/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
+[<img src="https://img.icons8.com/office/50/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
 &nbsp;&nbsp;
 
 
