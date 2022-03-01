@@ -1,6 +1,8 @@
-### Hi there, I´m Juan Manuel Grehuello, Full Stack Developer from Argentina👋
+<img align="center" width= "500px" src='inicio.gif' />
 
-# I studied hospitality but tech industry has always been my real passion
+# Hi there, I´m Juan Manuel Grehuello, Full Stack Developer from Argentina👋
+
+### I studied hospitality but tech industry has always been my real passion
 
 🔭 I’m currently working on a grupal proyect for Henry bootcamp, an E-commerce for snikers! <br />
 🌱 I’m currently learning TypeScript <br />
