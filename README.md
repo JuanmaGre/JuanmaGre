@@ -1,19 +1,11 @@
 ### Hi there, I´m Juan Manuel Grehuello, Full Stack Developer from Argentina👋
 
-## I studied hospitality but tech industry always has been my real passion
+## I studied hospitality but tech industry has always been my real passion
 
-🔭 I’m currently working on a grupal proyect for Henry bootcamp, an E-commerce for snikers!
-🌱 I’m currently learning TypeScript
-👯 I’m looking to collaborate on huge companies around the world
-⚡ Fun fact: I love playing basketball and football with my friends
-
-### Connect with me:
-
-[<img src="https://img.icons8.com/color/50/000000/twitter--v2.png"/>](https://twitter.com/manugrehuello)
-&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
-&nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
+🔭 I’m currently working on a grupal proyect for Henry bootcamp, an E-commerce for snikers! <br />
+🌱 I’m currently learning TypeScript <br />
+👯 I’m looking to collaborate on huge companies around the world <br />
+⚡ Fun fact: I love playing basketball and football with my friends <br />
 
 ### Languages and Tools:
 
@@ -29,6 +21,15 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
-<br />
-<br />
 
+### Connect with me:
+
+[<img src="https://img.icons8.com/color/50/000000/twitter--v2.png"/>](https://twitter.com/manugrehuello)
+&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
+&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
+
+
+<br />
+<br />
