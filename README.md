@@ -9,14 +9,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/manugrehuello)
-[![website](./img/twitter-dark.svg)](https://twitter.com/manugrehuello)
+[<img src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/>](https://twitter.com/manugrehuello)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
+[<img src="https://img.icons8.com/ios-glyphs/60/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/juangrehuello/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/juangrehuello/)
+[![website](<img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>)](https://www.instagram.com/juangrehuello/)
 
 ### Languages and Tools:
 
