@@ -5,7 +5,7 @@
 ### I studied hospitality but tech industry has always been my real passion
 
 🔭 I’m currently working on a grupal proyect for Henry bootcamp, an E-commerce for snikers! <br />
-🌱 I’m currently learning TypeScript <br />
+🌱 I’m currently learning TypeScript & Phyton <br />
 👯 I’m looking to collaborate on huge companies around the world <br />
 ⚡ Fun fact: I love playing basketball and football with my friends <br />
 
@@ -44,7 +44,7 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/office/50/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
+[<img src="https://img.icons8.com/office/45/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
 &nbsp;&nbsp;
 
 
