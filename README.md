@@ -30,6 +30,7 @@ I studied hospitality but tech industry has always been my real passion <br />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
+<br />
 
 
 # Henry Shoes
@@ -72,7 +73,7 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/office/45/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
 &nbsp;&nbsp;
-[<img width="48px" src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
+[<img width="45px" src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
 &nbsp;&nbsp;
 
 <br />
