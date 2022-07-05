@@ -1,7 +1,7 @@
 <img align="center" width= "600px" src='inicio.gif' />
 
-# Hi there, I´m Juan Manuel Grehuello 
-## Full Stack Developer from Argentina👋
+### Hi there I´m
+# Juan Manuel Grehuello ### Full Stack Developer from Argentina👋
 
 ### I studied hospitality but tech industry has always been my real passion
 
@@ -30,7 +30,7 @@
 
 <br />
 
-## Grupal Proyect for Henry Bootcamp
+### Grupal Proyect for Henry Bootcamp
 # Henry Shoes
 👇
 
@@ -48,7 +48,7 @@ HTML - JavaScript - React - Redux - NodeJS - MongoDB - Auth0 - Stripe - Mailtrap
 
 
 
-# My Individual Proyect for Henry Bootcamp
+### My Individual Proyect for Henry Bootcamp
 # Pretty Dogs by Henry
 👇
 
@@ -60,7 +60,7 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 <img align="left" width= "350px" src='cardsDetail.jfif' />
 <img align="center" width= "350px" src='breedDetail.jfif' />
 
-### Connect with me:
+## Connect with me:
 
 [<img src="https://img.icons8.com/color/50/000000/twitter--v2.png"/>](https://twitter.com/manugrehuello)
 &nbsp;&nbsp;
