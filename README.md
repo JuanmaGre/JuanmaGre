@@ -16,6 +16,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sequelize" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" style="padding-right:10px;" />
@@ -28,7 +29,26 @@
 
 <br />
 
+## Grupal Proyect for Henry Bootcamp
+    Henry Shoes
+👇
+
+🚀 Technologies: 
+HTML - JavaScript - React - Redux - NodeJS - MongoDB - Auth0 - Stripe - Mailtrap - AdminJS - CSS - ChakraUI 
+
+<img align="left" width= "350px" src='homepg.jpg' />
+<img align="center" width= "350px" src='auth0.jpg' />
+<img align="left" width= "350px" src='detailpg2.jpg' />
+<img align="center" width= "350px" src='detailpg.jpg' />
+<img align="left" width= "350px" src='shopcart.jpg' />
+<img align="center" width= "350px" src='shopcart2.jpg' />
+<img align="left" width= "350px" src='shopcart3.jpg' />
+<img align="center" width= "350px" src='stripe.jpg' />
+
+
+
 ## My Individual Proyect for Henry Bootcamp
+    Pretty Dogs by Henry
 👇
 
 🚀 Technologies: 
@@ -48,6 +68,8 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/office/45/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
+&nbsp;&nbsp;
+[<img src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
 &nbsp;&nbsp;
 
 
