@@ -4,7 +4,7 @@
 
 ### I studied hospitality but tech industry has always been my real passion
 
-🔭 I’m currently working on a grupal proyect for Henry bootcamp, an E-commerce for snikers! <br />
+🔭 I’m currently working on a Weather App and Twitter clone with NextJS! <br />
 🌱 I’m currently learning TypeScript & React Native <br />
 👯 I’m looking to collaborate on huge companies around the world <br />
 ⚡ Fun fact: I love playing basketball and football with my friends <br />
@@ -14,14 +14,14 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="28px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="28px" src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sequelize" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React Native" width="26px" src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap5" width="26px" src="https://img2.freepng.es/20180418/isw/kisspng-responsive-web-design-bootstrap-computer-icons-gri-rupee-5ad7443e6e1ad3.004934941524057150451.jpg" style="padding-right:10px;" />
+<img align="left" alt="React Native" width="28px" src="https://s3-eu-west-1.amazonaws.com/xavitristancho/react-native.png" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap5" width="28px" src="https://img2.freepng.es/20180418/isw/kisspng-responsive-web-design-bootstrap-computer-icons-gri-rupee-5ad7443e6e1ad3.004934941524057150451.jpg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" style="padding-right:10px;" />
 <img align="left" alt="PostgreSql" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
