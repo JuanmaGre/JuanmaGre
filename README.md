@@ -5,7 +5,7 @@
 ### Full Stack Developer from Argentina👋
 
 <br />
-I studied hospitality but tech industry has always been my real passion
+I studied hospitality but tech industry has always been my real passion <br />
 🔭 I’m currently working on a Weather App and Twitter clone with NextJS! <br />
 🌱 I’m currently learning TypeScript & React Native <br />
 👯 I’m looking to collaborate on huge companies around the world <br />
