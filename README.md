@@ -1,14 +1,16 @@
 <img align="center" width= "600px" src='inicio.gif' />
 
 ### Hi there I´m
-# Juan Manuel Grehuello ### Full Stack Developer from Argentina👋
+# Juan Manuel Grehuello 
+### Full Stack Developer from Argentina👋
 
-### I studied hospitality but tech industry has always been my real passion
-
+<br />
+I studied hospitality but tech industry has always been my real passion
 🔭 I’m currently working on a Weather App and Twitter clone with NextJS! <br />
 🌱 I’m currently learning TypeScript & React Native <br />
 👯 I’m looking to collaborate on huge companies around the world <br />
 ⚡ Fun fact: I love playing basketball and football with my friends <br />
+<br />
 
 ### Languages and Tools:
 
@@ -27,11 +29,11 @@
 <img align="left" alt="PostgreSql" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
 <br />
 
-### Grupal Proyect for Henry Bootcamp
+
 # Henry Shoes
+### Grupal Proyect for Henry Bootcamp
 👇
 
 🚀 Technologies: 
@@ -45,11 +47,10 @@ HTML - JavaScript - React - Redux - NodeJS - MongoDB - Auth0 - Stripe - Mailtrap
 <img align="center" width= "350px" src='shopcart2.jpg' />
 <img align="left" width= "350px" src='shopcart3.jpg' />
 <img align="center" width= "350px" src='stripe.jpg' />
+<br />
 
-
-
-### My Individual Proyect for Henry Bootcamp
 # Pretty Dogs by Henry
+### My Individual Proyect for Henry Bootcamp
 👇
 
 🚀 Technologies: 
@@ -59,6 +60,7 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 <img align="center" width= "350px" src='homePage.jfif' />
 <img align="left" width= "350px" src='cardsDetail.jfif' />
 <img align="center" width= "350px" src='breedDetail.jfif' />
+<br />
 
 ## Connect with me:
 
@@ -72,7 +74,6 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 &nbsp;&nbsp;
 [<img width="48px" src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
 &nbsp;&nbsp;
-
 
 <br />
 <br />
