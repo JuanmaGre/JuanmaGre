@@ -30,7 +30,7 @@
 <br />
 
 ## Grupal Proyect for Henry Bootcamp
-    Henry Shoes
+### Henry Shoes
 👇
 
 🚀 Technologies: 
@@ -48,7 +48,7 @@ HTML - JavaScript - React - Redux - NodeJS - MongoDB - Auth0 - Stripe - Mailtrap
 
 
 ## My Individual Proyect for Henry Bootcamp
-    Pretty Dogs by Henry
+### Pretty Dogs by Henry
 👇
 
 🚀 Technologies: 
@@ -69,7 +69,7 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 &nbsp;&nbsp;
 [<img src="https://img.icons8.com/office/45/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
+[<img width="25%" src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
 &nbsp;&nbsp;
 
 
