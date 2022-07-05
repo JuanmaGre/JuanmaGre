@@ -1,4 +1,4 @@
-<img align="center" heightMax= "100px" width= "600px" src='inicio.gif' />
+<img align="center" heightMax= "100px" width= "1500px" src='inicio.gif' />
 
 # Hi there, I´m Juan Manuel Grehuello, Full Stack Developer from Argentina👋
 
