@@ -6,7 +6,7 @@
 
 <br />
 I studied hospitality but tech industry has always been my real passion <br />
-🔭 I’m currently working on a Weather App and Twitter clone with NextJS! <br />
+🔭 I’m currently working on a Weather App and Netflix clone with NextJS! <br />
 🌱 I’m currently learning TypeScript & React Native <br />
 👯 I’m looking to collaborate on huge companies around the world <br />
 ⚡ Fun fact: I love playing basketball and football with my friends <br />
@@ -65,15 +65,15 @@ React - Redux - Sequelize - NodeJS - Express - PostgreSQL - CSS pure - HTML5 - J
 
 ## Connect with me:
 
-[<img src="https://img.icons8.com/color/50/000000/twitter--v2.png"/>](https://twitter.com/manugrehuello)
+[<img target="_blank" src="https://img.icons8.com/color/50/000000/twitter--v2.png"/>](https://twitter.com/manugrehuello)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
+[<img target="_blank" src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmanuelgrehuello-dev/)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
+[<img target="_blank" src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/juangrehuello/)
 &nbsp;&nbsp;
-[<img src="https://img.icons8.com/office/45/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
+[<img target="_blank" src="https://img.icons8.com/office/45/000000/whatsapp--v3.png"/>](https://wa.link/6ebc6h)
 &nbsp;&nbsp;
-[<img width="45px" src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
+[<img target="_blank" width="45px" src="https://img.icons8.com/external-itim2101-blue-itim2101/344/external-portfolio-search-itim2101-blue-itim2101.png"/>](https://jmg-portfolio-two.vercel.app/)
 &nbsp;&nbsp;
 
 <br />
